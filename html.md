@@ -65,6 +65,7 @@
 - [11. 特殊符号](#11-特殊符号)
 
 <!-- /TOC -->
+
 ## 1. html文件夹结构
 
 ```html
@@ -119,8 +120,6 @@
 ### 3.12. `<ins>`下划线
 ### 3.13. `<mark>`高亮
 
-
-
 ## 4. `<img>`图片
 ### 4.1. `src`路径
 ### 4.2. `alt`属性
@@ -138,7 +137,7 @@
 ### 6.2. `target = _blank`点开打开新标签
 - 图片跳转
 ```html
-   <a href="https://www.acwing.com" target="_blank">
+   <a href="https://github.com/ZeirSor?tab=repositories" target="_blank">
         <img width="50" src="/images/logo.png" alt="logo">
     </a>
 ```
